@@ -508,13 +508,6 @@ Docs: Documentación
 
 ---
 
-## 📞 Contacto
-
-**Equipo Vigatec**
-- Email: contacto@vigatec.com
-- URL Aplicación: https://s001606-cl-lnast-qa.gestionasistencia.cl
-
----
 
 ## 📄 Licencia
 
