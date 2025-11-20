@@ -1,0 +1,14 @@
+{
+    "validUsers": [
+      {
+        "username": "acarrasco@vigatec.com",
+        "password": "${VALID_USER_PASSWORD}"
+      }
+    ],
+    "invalidUsers": [
+      {
+        "username": "invalid@test.com",
+        "password": "WrongPass"
+      }
+    ]
+  }
